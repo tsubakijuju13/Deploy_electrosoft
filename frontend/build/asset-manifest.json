@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92f2b998.css",
+    "main.js": "/static/js/main.3465953d.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/logo1.png": "/static/media/logo1.9411304f1a42f7fbf5c7.png",
+    "static/media/FiraSans-Regular.ttf": "/static/media/FiraSans-Regular.1c0bf0728b51cb9f2ddc.ttf",
+    "static/media/NotoSans-Regular.ttf": "/static/media/NotoSans-Regular.fa11626fafb16c629d2c.ttf",
+    "static/media/NotoSans-Bold.ttf": "/static/media/NotoSans-Bold.66ab29744a551a59e9f5.ttf",
+    "static/media/GrandviewLightItalic.ttf": "/static/media/GrandviewLightItalic.0010f4f69afafbed2d55.ttf",
+    "static/media/Grandview.ttf": "/static/media/Grandview.14807e0735889ab4a050.ttf",
+    "static/media/GrandviewLight.ttf": "/static/media/GrandviewLight.31a0be1686194a903875.ttf",
+    "static/media/GrandviewBold.ttf": "/static/media/GrandviewBold.4fc0e7816cac06fb90cb.ttf",
+    "static/media/banner1.png": "/static/media/banner1.9105d7c64f72aeaeba3b.png",
+    "static/media/Poppins-LightItalic.ttf": "/static/media/Poppins-LightItalic.5ccd942a8800a68d44b6.ttf",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.8be2d1487420548b3b8d.ttf",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-Black.ttf": "/static/media/Poppins-Black.eacee5bb9c7fee5939ae.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+    "static/media/OpenSans-Bold.ttf": "/static/media/OpenSans-Bold.6e27168fc8a5a200a026.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/static/media/OpenSans-SemiBold.d7261533b9a545ddc769.ttf",
+    "static/media/banner2.png": "/static/media/banner2.c489d73e681317bac354.png",
+    "static/media/codigos.jpg": "/static/media/codigos.950d46cb7e79f56bb0d4.jpg",
+    "static/media/notification.svg?s3g3t9": "/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/index.html",
+    "main.92f2b998.css.map": "/static/css/main.92f2b998.css.map",
+    "main.3465953d.js.map": "/static/js/main.3465953d.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92f2b998.css",
+    "static/js/main.3465953d.js"
+  ]
+}
